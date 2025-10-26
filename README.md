@@ -1,17 +1,15 @@
 # Praktikum-Week-5
 
-# 📘 Algoritma dan Pemrograman Komputer
+# 📘 Algoritma Pemrograman
 
 ## Bab VI – Perulangan
 
-Dokumen ini merupakan bagian dari mata kuliah **Algoritma dan Pemrograman Komputer** di **Program Studi Rekayasa Perangkat Lunak, Universitas Telkom Surabaya (2024)**.
+dari mata kuliah **Algoritma dan Pemrograman Komputer** di **Program Studi Rekayasa Perangkat Lunak, Universitas Telkom Surabaya (2024)**.
 Bab ini membahas tentang **perulangan (looping)**, yaitu proses eksekusi instruksi program secara berulang hingga kondisi tertentu terpenuhi. Konsep perulangan merupakan salah satu pondasi logika pemrograman yang sangat penting dalam menyelesaikan perhitungan berulang.
 
 ---
 
 ## 🎯 Tujuan Pembelajaran
-
-Mahasiswa diharapkan mampu:
 
 1. Menggunakan berbagai jenis struktur perulangan (`for`, `while`, dan `do-while`).
 2. Melakukan *tracing* terhadap proses iterasi untuk memahami logika kerja loop.
