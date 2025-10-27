@@ -4,7 +4,7 @@
 
 ## Bab VI – Perulangan
 
-dari mata kuliah **Algoritma dan Pemrograman Komputer** di **Program Studi Rekayasa Perangkat Lunak, Universitas Telkom Surabaya (2024)**.
+dari mata kuliah **Algoritma Pemrograman** di **Program Studi Rekayasa Perangkat Lunak, Universitas Telkom Surabaya (2024)**.
 Bab ini membahas tentang **perulangan (looping)**, yaitu proses eksekusi instruksi program secara berulang hingga kondisi tertentu terpenuhi. Konsep perulangan merupakan salah satu pondasi logika pemrograman yang sangat penting dalam menyelesaikan perhitungan berulang.
 
 ---
