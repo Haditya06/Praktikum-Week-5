@@ -1,6 +1,5 @@
-# Praktikum-Week-5
-
 # 📘 Algoritma Pemrograman
+# Praktikum-Week-5
 
 ## Bab VI – Perulangan
 
